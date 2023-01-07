@@ -1,5 +1,7 @@
 # Frontend Mentor - Product preview card component
 
+Link:-https://faisalkhan1123.github.io/preview-component-card/
+
 ![Design preview for the Product preview card component coding challenge](./design/desktop-preview.jpg)
 
 ## Welcome! 👋
